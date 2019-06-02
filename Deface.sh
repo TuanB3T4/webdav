@@ -49,7 +49,7 @@ echo
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
-sh deface.sh
+sh Deface.sh
 fi
 
 echo
