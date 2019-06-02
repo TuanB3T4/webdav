@@ -15,7 +15,7 @@ toilet -f slant "Deface" | lolcat
 
 #######################################################
 echo   "[=][===================================][=]" | lolcat
-echo   "[=] Tools    : Anteiku Nigh Raid       [=] " |lolcat
+echo   "[=] Team     : Anteiku Nigh Raid        [=] " |lolcat
 echo   "[=] Creadby  : Tuan B3T4                [=] " |lolcat
 echo   "[=] Contact  : 085694011450             [=] " |lolcat
 echo   "[=][===================================][=]" | lolcat
