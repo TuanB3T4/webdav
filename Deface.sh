@@ -43,8 +43,8 @@ echo $white"---------------------------------------"
 echo $red"[1].Deface"
 echo $red"[2].exit"
 echo $white"---------------------------------------"
-echo $green"MASUKAN PILIHAN ANDA"
-read -p "PILIH>>==>" bro;
+echo    "╭─[=]B3T4[=]" Masukan Script anda |lolcat
+read -p "╰─#" bro
 echo
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
