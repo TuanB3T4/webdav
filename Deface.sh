@@ -20,6 +20,7 @@ echo   "[=] Creadby  : Tuan B3T4                [=] " |lolcat
 echo   "[=] Contact  : 085694011450             [=] " |lolcat
 echo   "[=][===================================][=]" | lolcat
 echo $red"VERSION=1"
+echo $red"Nb:script deface nya agan taruh diluar folder di penyimpanan internal ya gan"
 #########################################################
 
 
@@ -55,6 +56,13 @@ fi
 echo
 if [ $bro = 2 ] || [ $bro = 2 ]
 then
+echo   "[=][===================================][=]" | lolcat
+echo $blue"Yakin mau keluar?"
+echo   "[=][===================================][=]" | lolcat
+read -p "Ya? (Y)" ya
+echo
+echo $red"Terimakasih Telah Menggunakan tools ini, Bila ada kekurangan dengan tool ini maaf kami akan memperbaiki by Tuan B3T4 "
+echo
 clear
 exit
 fi
