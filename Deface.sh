@@ -59,7 +59,8 @@ then
 echo   "[=][===================================][=]" | lolcat
 echo $blue"Yakin mau keluar?"
 echo   "[=][===================================][=]" | lolcat
-read -p "Ya? (Y)" ya
+echo    "╭─[=]B3T4[=]" Ya? |lolcat
+read -p "╰─#" bro
 echo
 echo $red"Terimakasih Telah Menggunakan tools ini, Bila ada kekurangan dengan tool ini maaf kami akan memperbaiki by Tuan B3T4 "
 echo
