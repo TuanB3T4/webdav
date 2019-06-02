@@ -64,6 +64,10 @@ read -p "╰─#" bro
 echo
 echo $red"Terimakasih Telah Menggunakan tools ini, Bila ada kekurangan dengan tool ini maaf kami akan memperbaiki by Tuan B3T4 "
 echo
+echo
+echo
+echo
+echo
 clear
 exit
 fi
