@@ -15,7 +15,7 @@ toilet -f slant "Deface" | lolcat
 
 #######################################################
 echo   "[=][===================================][=]" | lolcat
-echo   "[=] Tools    : Black Demon Cyber        [=] " |lolcat
+echo   "[=] Tools    : Anteiku Night Raid       [=] " |lolcat
 echo   "[=] Creadby  : Tuan B3T4                [=] " |lolcat
 echo   "[=] Contact  : 085694011450             [=] " |lolcat
 echo   "[=][===================================][=]" | lolcat
@@ -40,7 +40,7 @@ echo
 echo $white"---------------------------------------"
 echo $purple"                 LIST"
 echo $white"---------------------------------------"
-echo $red"[1].back"
+echo $red"[1].Deface"
 echo $red"[2].exit"
 echo $white"---------------------------------------"
 echo $green"MASUKAN PILIHAN ANDA"
