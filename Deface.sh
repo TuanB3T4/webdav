@@ -29,7 +29,7 @@ echo    "╭─[=]B3T4[=]" Masukan Target anda |lolcat
 read -p "╰─#" target
 echo
 echo    "╭─[=]B3T4[=]" Masukan Script anda |lolcat
-read -p "╰─#" target
+read -p "╰─#" script
 echo
 curl -T /storage/emulated/0/$script $target
 echo $blue"Tunggu..."
